@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
     background-color: #bbbaba;
     display: flex;
@@ -15,7 +22,41 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
 }
+
+
+h1{
+    width: 610px;
+    height: 145px;
+    font-size: 64px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    
+    
+}
+
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 607px;
+    height: 108px;
+    color: #252525CC;
+    font-size: 26px;
+    font-weight: 400;
+}
+
+
+button{
+    border-radius: 16px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: #252525;
+    color: white;
+}
+
