@@ -60,3 +60,78 @@ button{
     color: white; 
 }
 
+
+.imagesp2{
+    margin-top: 60px;
+
+    
+}
+
+
+.imagesf1{
+    display: flex;
+    width: 1312px;
+    height: 288px;
+    gap: 16px;
+}
+
+
+.img1{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+
+.img2{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+
+.img3{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+
+.img4{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+
+.imagesf2{
+    display: flex;
+    margin-top: 15px;
+    gap: 16px;
+}
+
+.img5{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+.img6{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+
+.img7{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}
+
+
+.img8{
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+}

@@ -25,82 +25,102 @@ body {
 }
 
 
-h1{
-    font-size: 70px;
-    font-weight: 400;
-    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-}
 
-.head{
-    padding-right: 750px;
-    margin-top: 20px;
+header{
+    border: 2px solid black;
+    width: 444px;
+    height: 473px;
+    margin-top: 137px;
     margin-right: 60px;
+    
 }
+
+
+
+
+h1{
+    width: 444px;
+    height: 231px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0%;
+    color: #252525;
+
+}
+
 
 h3{
-    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 25px;
-    font-weight: 100;
-    padding-right: 750px;
-    margin-right: 60px;
+   width: 386px;
+   height: 144px;
+   font-weight: 400;
+   font-size: 26px;
+   color: #252525CC;
 
 
 }
 
 
 button{
-    justify-content: left;
-    margin-top: 20px;
-    width: 100px;
-    background-color: rgb(0, 0, 0);
-    border-radius: 15px;
-    padding: 10px;
-    color: white;
+  
 }
 
-    
+
+p{
+    width: 368px;
+    height: 55px;
+    font-weight: 800;
+    font-size: 40px;
+    color: #25252540 ;
+}
+
+
 .foto1{
-    width: 300px;
-    margin-left: 500px;
-    margin-top: -450px;
-    border-radius: 20px;
-   
+    width: 408px;
+    height: 480px;
+    border-radius: 16px;
+    margin-left: 525px;
+    
+    
+  
 }
 
 
 .foto2{
-    border: 2px solid rgb(175, 12, 12);
-    width: 550px;
-    margin-left: 900px;
-    margin-top: -350px;
-    border-radius: 20px;
+    width: 408px;
+    height: 480px;
+    border-radius: 16px;
+    margin-left: 968px;
+  
+    
 }
+  
 
 
 .galeriainferior{
     display: flex;
-    justify-content: space-between;
-  
+    gap: 40px;
 
 }
 
-
-
 .foto3{
-   width: 400px;
-   margin-top: 200px;
+   width: 412px;
+   height: 379.16px;
+   border-radius: 16px;
 }
 
 
 .foto4{
-    width: 100px;
-    margin-top: -150px;
+   width: 412px;
+   height: 379.16px;
+   border-radius: 16px;
 }
 
 
 
 .foto5{
-    width: 100px;
-    margin-top: -150px;
+    width: 412px;
+   height: 379.16px;
+   border-radius: 16px;
 }
