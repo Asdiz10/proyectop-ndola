@@ -9,13 +9,131 @@ body {
 
 .tarjeta{
     box-sizing: border-box;
-    height: 1140px;
+    height: 926px;
     width: 1440px;
-    background-color: white;
-    display: flex;
+    background-color: #2F2F2F;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
 }
+
+.text{
+    display: flex ;
+    border: 2px solid #ffffff;
+    width: 449px;
+    height: 672px;
+    margin-top: 100px;
+    margin-left: 152px;
+
+}
+
+
+h1{
+    width: 370px;
+    height: 324px;
+    font-weight: 700;
+    font-size: 72px;
+    color: rgb(44, 191, 228);
+}
+
+
+h3{
+    width: 449px;
+    height: 100px;
+    font-weight: 400;
+    font-style: regular;
+    font-size: 24px; 
+    margin-bottom: 40px;
+    color: #FFFFFF;
+}
+
+
+button{
+    width: 182px;
+    height: 66px ;
+    font-size: 24px;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-bottom: 24px ;
+    padding-left: 48px;
+    padding-right: 48px ;
+}
+
+
+.gallery{
+    border: 2px solid rgb(255, 255, 255);
+    display: flex;
+    gap: 10px;
+    margin-left: 200px;
+}
+
+
+.fila1{
+
+    
+}
+
+
+.imgp51{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp52{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp53{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp54{
+     width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.fila2{
+
+}
+
+
+.imgp55{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp56{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp57{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp58{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+
+
