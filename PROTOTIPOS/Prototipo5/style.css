@@ -19,7 +19,6 @@ body {
 
 .text{
     display: flex ;
-    border: 2px solid #ffffff;
     width: 449px;
     height: 672px;
     margin-top: 100px;
@@ -61,15 +60,14 @@ button{
 
 
 .gallery{
-    border: 2px solid rgb(255, 255, 255);
     display: flex;
-    gap: 10px;
-    margin-left: 200px;
+    gap: 15px;
+    margin-left: 50px;
+    margin-bottom: 100px;
 }
 
 
 .fila1{
-
     
 }
 
@@ -135,5 +133,69 @@ button{
 }
 
 
+.fila3{
+
+}
+
+
+.imgp1{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp2{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp3{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp4{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.fila4{
+
+}
+
+
+.imgp5{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp6{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp7{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+
+.imgp8{
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
 
 
