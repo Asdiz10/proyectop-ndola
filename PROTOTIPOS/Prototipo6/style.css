@@ -15,7 +15,78 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+h1{
+    width: 531px;
+    margin-right: 800px;
+    font-size: 88px;    
+    color: #252525;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h3{
+    width: 400px;
+    height: 132px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #252525CC;
+}
+
+
+.card{
+    display: flex;
+    width: 1312px;
+    height: 549px;
+    margin-top: 40px;
+    margin-left: 64px;
+    margin-right: 64px;
+    gap: 56px;
+}
+
+
+p{
+    width: 32px;
+    height: 44px;
+    font-size: 30px;
+    font-weight: 800;
+    color: #2525258C;
+}
+
+.box1{
+    width: 400px;
+    height: 549px;
+    
+}
+
+
+.img1{
+    width: 400px;
+    height: 345px;
+}
+
+
+.box2{
+
+}
+
+
+.img2{
+    width: 400px;
+    height: 345px;
+}
+
+
+.box3{
+
+}
+
+
+.img3{
+    width: 400px;
+    height: 345px;
 }
