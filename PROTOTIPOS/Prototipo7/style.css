@@ -14,8 +14,113 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
     padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+.head{
+    display: flex;
+    width: 637px;
+    height: 414px;
+    margin-top: 90px;
+    margin-left: 65px;
+    gap: 32px;
+}
+
+
+.imgp7{
+    display: flex;
+    
+
+}
+
+
+.img71{
+    width: 322px;
+    height: 384px;
+    margin-bottom: 200px;
+    left: 828px;
+}
+
+
+.img72{
+    width: 322px;
+    height: 384px;
+    margin-top: 92px;
+}
+
+
+h1{
+    width: 637px;
+    height: 176px;
+    font-weight: 500;
+    font-size: 72px;
+    color: #252525;
+}
+
+
+h3{
+    width: 586px;
+    height: 108px;
+    font-weight: 400;
+    font-size: 26px;
+    text-align: justify;
+    color: #252525CC;
+}
+
+
+button{
+    width: 182px;
+    height: 66px;
+    border-radius: 36px;
+    bottom: 24px;
+    background-color: #252525 ;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+
+.listp{
+    border: 2px solid black;
+    justify-content: center;
+    margin-top: 200px;
+    padding: 64px;
+    gap: 8px;
+    border-radius: 40px;
+    background-color: #252525;
+   
+}
+
+.listas{
+    display: flex;
+    width: 1184px;
+    height: 170px;
+    gap: 118px;
+    color: white;
+
+}
+
+
+.l1{
+    width: 316;
+    height: 170;
+}
+
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 316px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+
+p{
+    width: 316px;
+    height: 66px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ffffff;
 }
