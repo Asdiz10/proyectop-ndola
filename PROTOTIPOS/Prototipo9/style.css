@@ -29,3 +29,51 @@ h1{
     font-size: 72px;
     color: #252525;
 }
+
+
+img{
+    width: 316px;
+    height: 450px;
+    border-radius: 24px;
+
+}
+
+
+.cartas{
+    display: flex;
+}
+
+
+h3{
+    width: 316px;
+    height: 55px;
+    font-weight: 400;
+    font-size: 40px;
+    color: #25252559;
+
+}
+
+
+p{
+    width: 316px;
+    height: 66px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #252525CC;
+
+
+}
+
+.c1{
+    width: 316px;
+    height: 559px;
+}
+
+
+.ca1{
+
+}
+
+
+
+
