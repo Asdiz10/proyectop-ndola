@@ -15,7 +15,17 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+
+h1{
+    width: 833px;
+    height: 176px;
+    margin-top: 64px;
+    margin-right: 450px;
+    font-weight: 600;
+    font-size: 72px;
+    color: #252525;
 }
