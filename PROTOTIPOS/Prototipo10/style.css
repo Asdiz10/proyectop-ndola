@@ -20,6 +20,11 @@ body {
 }
 
 
+
+.head{
+    position: absolute;
+}
+
 h1{
     width: 676px;
     height: 192px;
@@ -53,6 +58,7 @@ button{
 
 
 img{
-    width: 440px;
-    height: 580px;
+    width: 1440px;
+    height: 1140px;
+    position: relative;
 }
