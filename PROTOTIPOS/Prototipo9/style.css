@@ -41,6 +41,7 @@ img{
 
 .cartas{
     display: flex;
+    gap: 10px;
 }
 
 
@@ -72,6 +73,74 @@ p{
 
 .ca1{
 
+}
+
+
+.c2{
+    width: 316px;
+    height: 559px;
+}
+
+
+.ca2{
+
+}
+
+
+.c3{
+    width: 316px;
+    height: 559px;
+}
+
+
+.ca3{
+
+}
+
+
+.c4{
+    width: 316px;
+    height: 559px;
+}
+
+
+.ca4{
+
+}
+
+
+.imgh4{
+    border: 2px solid black;
+    position: relative;
+    text-align: center;
+}
+
+
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 300px;
+    padding-left: 20px;
+    width: 48px;
+    height: 33px;
+    color: #252525;
+
+
+
+}
+
+h4{
+    position: absolute;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+
+img{
+    position: relative;
 }
 
 
