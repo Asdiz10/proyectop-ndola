@@ -71,20 +71,11 @@ p{
 }
 
 
-.ca1{
-
-}
-
-
 .c2{
     width: 316px;
     height: 559px;
 }
 
-
-.ca2{
-
-}
 
 
 .c3{
@@ -93,10 +84,6 @@ p{
 }
 
 
-.ca3{
-
-}
-
 
 .c4{
     width: 316px;
@@ -104,13 +91,8 @@ p{
 }
 
 
-.ca4{
-
-}
-
 
 .imgh4{
-    border: 2px solid black;
     position: relative;
     text-align: center;
 }
@@ -136,6 +118,20 @@ h4{
     margin-bottom: 20px;
 
 
+}
+
+
+.pi{
+    position: absolute;
+    top: 340px;
+    padding-left: 20px;
+    width: 213px;
+    height: 66px;
+    font-weight: 200;
+    font-size: 17px;
+    text-align: justify;
+    color: #252525;
+    
 }
 
 
