@@ -52,7 +52,6 @@ h3 {
 }
 
 .gallery {
-  border: solid 2px;
   display: flex;
   padding: 50px;
   justify-content: center;
@@ -61,7 +60,6 @@ h3 {
 }
 
 .p1 {
-  border: 2px solid black;
   justify-content: center;
   padding: 30px;
   border-radius: 5px;
